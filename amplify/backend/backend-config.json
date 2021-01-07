@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "trifectawebapp85a9fc3a": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
