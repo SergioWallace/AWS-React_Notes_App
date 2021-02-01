@@ -1,3 +1,7 @@
+# Notes Web App
+
+Basic web application that utilizes AWS services. The note app has added authentication that allows users to sign up, sign in, and manage their account. The app also has a scalable GraphQL API configured with an Amazon DynamoDB database allowing users to create and delete notes. It also uses file storage using Amazon S3 to allow users to upload images with the notes they create.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
